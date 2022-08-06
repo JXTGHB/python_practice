@@ -1,4 +1,3 @@
-作業連結:https://yzucs362.blogspot.com/2020/05/10533321-5.html
 
 實作方法：
 
