@@ -1,5 +1,4 @@
-作業連結:
-https://yzucs362.blogspot.com/2020/05/1063321-4.html
+
 
 實作過程
 1.先用imread讀取圖像
